@@ -1,0 +1,5 @@
+[core]
+    remote = remote-name
+    autostage = true
+['remote "remote-name"']
+    url = D:\cases_dicom\local-dvc-storage
