@@ -4,4 +4,5 @@
 - data visualization and statistics
 - using pretrained yolo8 and fine tuning it
 - preparing stremline GUI
-- deployment 
+- deployment
+- link [https://osama-ammar-detection-app-streamlit-app-kuziji.streamlit.app/]
