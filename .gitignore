@@ -6,5 +6,5 @@
 /wandb
 
 #files
-*.pt
+#*.pt
 *.jpg
