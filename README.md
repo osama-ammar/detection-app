@@ -1,4 +1,4 @@
-# end to end object detection app 
+# Kidney Stones detection app 
 - getting data
 - versioning data with dvc
 - data visualization and statistics
