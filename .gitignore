@@ -1,2 +1,10 @@
 # folders to be ignored
 /data
+/detection_app
+/runs
+/runs
+/wandb
+
+#files
+*.pt
+*.jpg

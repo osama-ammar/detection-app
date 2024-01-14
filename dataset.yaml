@@ -1,0 +1,6 @@
+train: D:\Code_store\detection-app\data\train\images
+val: D:\Code_store\detection-app\data\valid\images
+test: D:\Code_store\detection-app\data\test\images
+
+nc: 1
+names: ["stones"]
